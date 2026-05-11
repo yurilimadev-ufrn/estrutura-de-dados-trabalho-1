@@ -1,0 +1,13 @@
+# Executáveis
+*.exe
+programa
+programa.out
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dados e Imagens (opcional, mas bom manter apenas o código)
+resultados_*.csv
+*.png
